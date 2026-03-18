@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "post-001",
+    "text": "これはテスト投稿です。（例）",
+    "media_urls": [],
+    "link_url": "",
+    "active": true
+  },
+  {
+    "id": "post-002",
+    "text": "2つ目のテスト投稿です。（例）",
+    "media_urls": [],
+    "link_url": "",
+    "active": true
+  }
+]
